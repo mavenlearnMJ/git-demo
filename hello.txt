@@ -1,0 +1,12 @@
+helllo sjlfjslfjajflkjakfjaj
+sjlfjslfjajflkjakfjajyy
+/bin/bash: q: command not found
+sjlfjslfjajflkjakfjajyy
+sjlfjslfjajflkjakfjajyy
+sjlfjslfjajflkjakfjajyy
+sjlfjslfjajflkjakfjajyy
+sjlfjslfjajflkjakfjajyy
+sjlfjslfjajflkjakfjajyy
+sjlfjslfjajflkjakfjajyy
+sjlfjslfjajflkjakfjajyy
+/usr/bin/bash: q: command not found
